@@ -5,7 +5,7 @@ import './HeroSection.css';
 function VisionSection() {
   return (
     <div className="hero-container">
-        <video src='/videos/VisionVid.mp4' autoPlay loop muted />
+        <video src='https://videos-travel-blog.s3.us-east-2.amazonaws.com/VisionVid.mp4' autoPlay loop muted />
         <p>When I first moved to the U.S. in 2012 I was fascinated </p>
         <p>by this new country and environment I was placed in.</p>
         <p>Ever since then, my family has taken vacations</p>
