@@ -5,7 +5,7 @@ import './HeroSection.css';
 function AboutSection() {
     return(
         <div className="hero-container">
-            <video src='/videos/AboutMeBack.mp4' autoPlay loop muted />
+            <video src='https://videos-travel-blog.s3.us-east-2.amazonaws.com/AboutMeBack.mp4' autoPlay loop muted />
             <h1>Hari Girish</h1>
                 <p>
                     I'm a first year Computer Science student at The Ohio State University
