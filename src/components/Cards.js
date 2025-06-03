@@ -23,7 +23,7 @@ function Cards() {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              src='images/c++.jpg'
+              src='images/c.jpeg'
               text='Movie Sorting and Library Emulator Project'
               label='Programming Language'
               path='https://cplusplus.com/'
