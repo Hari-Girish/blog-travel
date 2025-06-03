@@ -31,7 +31,7 @@ function SignCards() {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
           <CardItem
-              src='images/Chicago.jpg'
+              src='images/chicago.jpg'
               text='Exploring Chicago was such a fun experience because it is such a big city. My highlights were Willis Tower which was one of the largest buildings in the world. 
               The pier had many cool attractions like the ferris wheel from where you can get an amazing view of the city. The Deep Dish Pizza is not for everyone and that is okay!'
               label='Chicago'
