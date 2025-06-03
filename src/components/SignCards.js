@@ -12,7 +12,7 @@ function SignCards() {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              src='images/newport.jpg'
+              src='images/newport.JPG'
               text='Newport Aquarium was such an amazing place to discover the world under the sea. Definetly a one of the memorable experience from when I was young.'
               label='Newport Aquarium'
               path='https://www.newportaquarium.com/?utm_source=google_ads&utm_medium=PMax-naq&gad_source=1'
